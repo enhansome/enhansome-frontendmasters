@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "description": "A big shoutout to FrontendMasters for creating high quality professional courses.",
+      "items": [],
+      "title": "🙇‍♂️ Vote of Thanks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🙏 Support"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:33.206Z",
+    "original_repository": "rahuldkjain/awesome-frontendmasters",
+    "original_repository_sha": "d1519ba27c8b1e2a7ed27dbbea8b17221b65bd7a",
+    "enhanced_repository": "enhansome/enhansome-frontendmasters",
+    "enhanced_repository_description": null,
+    "title": "Awesome frontendmasters with stars"
+  }
+}
