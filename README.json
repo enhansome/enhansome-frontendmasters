@@ -1,7 +1,1154 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Introduction to Next.js",
+          "description": "nextjs-course-app Scott Moss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 283415197,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T12:44:21Z",
+            "owner": "Hendrixer",
+            "repo": "nextjs-course-app",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript & TypeScript Monorepos",
+          "description": "js-ts-monorepos Mike North",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303568643,
+            "language": "TypeScript",
+            "last_commit": "2022-03-19T16:55:41Z",
+            "owner": "mike-north",
+            "repo": "js-ts-monorepos",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Design Systems",
+          "description": "fem-design-systems Emma Bostian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241167097,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T13:52:14Z",
+            "owner": "emmabostian",
+            "repo": "fem-design-systems",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Getting The Front End Job",
+          "description": "hot-to-get-front-end-job Jerome Hardaway",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 291797098,
+            "language": "JavaScript",
+            "last_commit": "2020-09-02T14:12:36Z",
+            "owner": "jeromehardaway",
+            "repo": "how-to-get-front-end-job",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building Web Apps with Vue and Nuxt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285059448,
+            "language": "Vue",
+            "last_commit": "2023-01-06T21:00:16Z",
+            "owner": "sdras",
+            "repo": "building-web-apps-with-vue",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "building-web-apps-with-vue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285059448,
+            "language": "Vue",
+            "last_commit": "2023-01-06T21:00:16Z",
+            "owner": "sdras",
+            "repo": "building-web-apps-with-vue",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Vue.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96451164,
+            "language": "Vue",
+            "last_commit": "2023-03-05T18:39:43Z",
+            "owner": "sdras",
+            "repo": "intro-to-vue",
+            "stars": 2765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intro-to-vue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96451164,
+            "language": "Vue",
+            "last_commit": "2023-03-05T18:39:43Z",
+            "owner": "sdras",
+            "repo": "intro-to-vue",
+            "stars": 2765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless Functions",
+          "description": "frontendmasters-serverless Jason Lengstorf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280740005,
+            "language": "HTML",
+            "last_commit": "2024-04-06T15:21:34Z",
+            "owner": "jlengstorf",
+            "repo": "frontendmasters-serverless",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complete Intro to Linux and the CLI",
+          "description": "complete-intro-to-linux-and-the-cli Brian Holt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266430669,
+            "language": "JavaScript",
+            "last_commit": "2024-04-24T02:35:41Z",
+            "owner": "btholt",
+            "repo": "complete-intro-to-linux-and-the-cli",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "State Management with Vuex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270781688,
+            "language": null,
+            "last_commit": "2022-02-03T23:21:34Z",
+            "owner": "shortdiv",
+            "repo": "frontend-masters-vuex",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frontend-masters-vuex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270781688,
+            "language": null,
+            "last_commit": "2022-02-03T23:21:34Z",
+            "owner": "shortdiv",
+            "repo": "frontend-masters-vuex",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Svelte",
+          "description": "svelte-workshop Rich Harris",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271698616,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T08:40:27Z",
+            "owner": "Rich-Harris",
+            "repo": "svelte-workshop",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular 9 Fundamentals",
+          "description": "angular9-fundamentals-workshop One Hungry Mind",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266682302,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T06:54:47Z",
+            "owner": "onehungrymind",
+            "repo": "angular9-fundamentals-workshop",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript State Machines & XState",
+          "description": "frontend-masters-xstate-workshop David Khourshid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 262686040,
+            "language": "JavaScript",
+            "last_commit": "2023-01-09T02:58:46Z",
+            "owner": "davidkpiano",
+            "repo": "frontend-masters-xstate-workshop",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complete FrontEnd Project: Project Fox Game",
+          "description": "project-fox-game-site Brian Holt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253988125,
+            "language": "JavaScript",
+            "last_commit": "2024-02-12T00:41:41Z",
+            "owner": "btholt",
+            "repo": "project-fox-game-site",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native: Building mobile applications",
+          "description": "react-native-v2 Kadi Kraman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244730323,
+            "language": "JavaScript",
+            "last_commit": "2024-04-23T15:02:05Z",
+            "owner": "kadikraman",
+            "repo": "react-native-v2",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Creative Coding with WebGL & Shaders",
+          "description": "workshop-webgl-glsl Matt DesLauriers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217290873,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T11:08:35Z",
+            "owner": "mattdesl",
+            "repo": "workshop-webgl-glsl",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go for JavaScript Developers",
+          "description": "fem-intro-to-go Brenna",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210075473,
+            "language": "Go",
+            "last_commit": "2023-07-07T20:18:53Z",
+            "owner": "martensonbj",
+            "repo": "fem-intro-to-go",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Functional Architecture Patterns: JavaScript",
+          "description": "Practically-Functional Brian Lonsdorf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64089647,
+            "language": "JavaScript",
+            "last_commit": "2020-04-09T15:58:16Z",
+            "owner": "DrBoolean",
+            "repo": "Practically-Functional",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Functional Programming in JavaScript",
+          "description": "Functional-Light-JS Brian Lonsdorf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86514517,
+            "language": "JavaScript",
+            "last_commit": "2021-02-19T13:29:49Z",
+            "owner": "DrBoolean",
+            "repo": "Functional-Light-JS",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Practical Guide to Deep Learning with TensorFlow 2.0 and Keras",
+          "description": "practicalDL Vadim Karpusenko",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221452728,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-26T12:47:41Z",
+            "owner": "Vadikus",
+            "repo": "practicalDL",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced GraphQL",
+          "description": "advanced-gql-v2 Scott Moss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215489362,
+            "language": "JavaScript",
+            "last_commit": "2023-01-26T16:04:24Z",
+            "owner": "FrontendMasters",
+            "repo": "advanced-gql-v2",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intro to JAMstack",
+          "description": "jamstack-intro Jason Lengstorf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215400244,
+            "language": null,
+            "last_commit": "2021-10-05T21:31:58Z",
+            "owner": "jlengstorf",
+            "repo": "jamstack-intro",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "State Management in Pure React",
+          "description": "pure-react-state-management Steve Kinney",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232422468,
+            "language": null,
+            "last_commit": "2020-07-08T11:17:29Z",
+            "owner": "FrontendMasters",
+            "repo": "pure-react-state-management",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interviewing for Frontend Engineers",
+          "description": "frontend-interviewing Jem Young",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216703782,
+            "language": "JavaScript",
+            "last_commit": "2021-06-25T01:37:03Z",
+            "owner": "young",
+            "repo": "frontend-interviewing",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complete Intro to Containers",
+          "description": "complete-intro-to-containers Brian Holt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203060823,
+            "language": "JavaScript",
+            "last_commit": "2024-06-12T09:39:29Z",
+            "owner": "btholt",
+            "repo": "complete-intro-to-containers",
+            "stars": 945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript: Hard Parts",
+          "description": "js-hard-parts Will Sentance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131882997,
+            "language": "JavaScript",
+            "last_commit": "2021-02-17T21:20:14Z",
+            "owner": "StevanCakic",
+            "repo": "js-hard-parts",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intermediate Gatsby with Gatsby Themes",
+          "description": "gatsby-intermediate Jason Lengstorf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214454134,
+            "language": "JavaScript",
+            "last_commit": "2021-06-30T18:22:03Z",
+            "owner": "jlengstorf",
+            "repo": "gatsby-intermediate",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Client-Side GraphQL in React",
+          "description": "fullstack-graphql Scott Moss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215062743,
+            "language": "JavaScript",
+            "last_commit": "2023-08-01T15:35:03Z",
+            "owner": "FrontendMasters",
+            "repo": "fullstack-graphql",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Server-Side GraphQL in Node.js",
+          "description": "fullstack-graphql Scott Moss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215062743,
+            "language": "JavaScript",
+            "last_commit": "2023-08-01T15:35:03Z",
+            "owner": "FrontendMasters",
+            "repo": "fullstack-graphql",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Full Stack for Front-End Engineers",
+          "description": "Full-Stack-For-Frontend Jem Young",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73535040,
+            "language": "JavaScript",
+            "last_commit": "2016-11-12T06:55:16Z",
+            "owner": "young",
+            "repo": "Full-Stack-For-Frontend",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML Email Development",
+          "description": "html-email-development Jason Rodriguez",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209849941,
+            "language": "HTML",
+            "last_commit": "2024-01-01T22:37:36Z",
+            "owner": "rodriguezcommaj",
+            "repo": "frontendmasters",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building Your Own Programming Language",
+          "description": "dropbear Steve Kinney",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189435300,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T23:02:21Z",
+            "owner": "stevekinney",
+            "repo": "dropbear",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code Can Do That?",
+          "description": "workshop-vs-code-can-do-that Burke Holland",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200731909,
+            "language": "JavaScript",
+            "last_commit": "2023-01-12T07:37:22Z",
+            "owner": "burkeholland",
+            "repo": "workshop-vs-code-can-do-that",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced CSS Layout",
+          "description": "fem-adv-css-layout Jen Kramer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201683309,
+            "language": "HTML",
+            "last_commit": "2022-11-18T14:08:12Z",
+            "owner": "jen4web",
+            "repo": "fem-adv-css-layout",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessibility in JavaScript Applications",
+          "description": "js-a11y-workshop Marcy Sutton",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195588176,
+            "language": "JavaScript",
+            "last_commit": "2023-03-03T10:08:28Z",
+            "owner": "marcysutton",
+            "repo": "js-a11y-workshop",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "State Management: Redux and Mobx",
+          "description": "redux-counter Steve Kinney",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189227850,
+            "language": "HTML",
+            "last_commit": "2023-01-04T15:59:23Z",
+            "owner": "stevekinney",
+            "repo": "redux-counter",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Service Workers",
+          "description": "service-workers-offline Kyle Simpson",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197042331,
+            "language": "JavaScript",
+            "last_commit": "2022-02-11T15:22:31Z",
+            "owner": "FrontendMasters",
+            "repo": "service-workers-offline",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ember Octane Fundamentals",
+          "description": "ember-octane Mike North",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184290304,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T21:48:15Z",
+            "owner": "FrontendMasters",
+            "repo": "ember-octane",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Getting started with JavaScript",
+          "description": "You-Dont-Know-JS Kyle Simpson",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14440270,
+            "language": null,
+            "last_commit": "2026-02-15T04:36:44Z",
+            "owner": "getify",
+            "repo": "You-Dont-Know-JS",
+            "stars": 184719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Gatsby",
+          "description": "gatsby-intro Jason Lengstorf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184125955,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T20:55:42Z",
+            "owner": "FrontendMasters",
+            "repo": "gatsby-intro",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intermediate React",
+          "description": "complete-intro-to-react-v5 Brian Holt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166721244,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T18:12:46Z",
+            "owner": "btholt",
+            "repo": "complete-intro-to-react-v5",
+            "stars": 3582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tree and Graph Data Structures",
+          "description": "coding-interview-university Bianca",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60493101,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 359620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intermediate Python",
+          "description": "python Nina Zakharenko",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171074362,
+            "language": "CSS",
+            "last_commit": "2024-01-31T09:14:13Z",
+            "owner": "nnja",
+            "repo": "python",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep JavaScript Foundations",
+          "description": "You-Dont-Know-JS Kyle Simpson",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14440270,
+            "language": null,
+            "last_commit": "2026-02-15T04:36:44Z",
+            "owner": "getify",
+            "repo": "You-Dont-Know-JS",
+            "stars": 184719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript Fundamentals",
+          "description": "typescript-fundamentals Mike North",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89722054,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T17:00:44Z",
+            "owner": "mike-works",
+            "repo": "typescript-fundamentals",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firebase with React",
+          "description": "think-piece Steve Kinney",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161537442,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T15:39:46Z",
+            "owner": "stevekinney",
+            "repo": "think-piece",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "API design in Node.js with Express",
+          "description": "api-design-node-v3 Scott Moss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160208775,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T20:58:04Z",
+            "owner": "FrontendMasters",
+            "repo": "api-design-node-v3",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVG Essentials & Animation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60487530,
+            "language": "HTML",
+            "last_commit": "2019-01-15T00:27:34Z",
+            "owner": "sdras",
+            "repo": "svg-workshop",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svg-workshop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60487530,
+            "language": "HTML",
+            "last_commit": "2019-01-15T00:27:34Z",
+            "owner": "sdras",
+            "repo": "svg-workshop",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design For Developers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149911333,
+            "language": null,
+            "last_commit": "2019-01-15T00:44:00Z",
+            "owner": "sdras",
+            "repo": "design-for-developers",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "design-for-developers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149911333,
+            "language": null,
+            "last_commit": "2019-01-15T00:44:00Z",
+            "owner": "sdras",
+            "repo": "design-for-developers",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reactive Angular with NgRx",
+          "description": "angular-reactive-workshop One Hungry Mind",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154181043,
+            "language": "TypeScript",
+            "last_commit": "2023-02-28T03:46:51Z",
+            "owner": "onehungrymind",
+            "repo": "angular-reactive-workshop",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular Core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154180824,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T15:17:43Z",
+            "owner": "onehungrymind",
+            "repo": "angular-core-workshop",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-core-workshop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154180824,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T15:17:43Z",
+            "owner": "onehungrymind",
+            "repo": "angular-core-workshop",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Creative Coding with Canvas & WebGL",
+          "description": "workshop-generative-art Matt DesLauriers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151227199,
+            "language": "JavaScript",
+            "last_commit": "2021-04-30T02:42:40Z",
+            "owner": "mattdesl",
+            "repo": "workshop-generative-art",
+            "stars": 1406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to MongoDB",
+          "description": "intro-mongo-db Scott Moss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152273811,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T03:20:21Z",
+            "owner": "FrontendMasters",
+            "repo": "intro-mongo-db",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Nodejs",
+          "description": "intro-node-js Scott Moss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152273271,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T20:53:37Z",
+            "owner": "FrontendMasters",
+            "repo": "intro-node-js",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Elm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143594667,
+            "language": "Elm",
+            "last_commit": "2023-01-05T23:46:24Z",
+            "owner": "rtfeldman",
+            "repo": "elm-0.19-workshop",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elm-0.19-workshop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143594667,
+            "language": "Elm",
+            "last_commit": "2023-01-05T23:46:24Z",
+            "owner": "rtfeldman",
+            "repo": "elm-0.19-workshop",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mastering ChromeDev Tools",
+          "description": "mastering-chrome-devtools Jon Kuperman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51627322,
+            "language": "JavaScript",
+            "last_commit": "2023-12-28T00:19:24Z",
+            "owner": "jkup",
+            "repo": "mastering-chrome-devtools",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building Custom Data Visualizations",
+          "description": "custom-dataviz-example Shirley Wu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143076814,
+            "language": "JavaScript",
+            "last_commit": "2018-08-03T02:08:56Z",
+            "owner": "sxywu",
+            "repo": "custom-dataviz-example",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Visualization for React Developers",
+          "description": "react-d3-example Shirley Wu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128824999,
+            "language": "JavaScript",
+            "last_commit": "2018-11-15T12:08:47Z",
+            "owner": "sxywu",
+            "repo": "react-d3-example",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Website Performance with Webpack",
+          "description": "webpack-workshop-2018 Sean Larkin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127812616,
+            "language": null,
+            "last_commit": "2023-04-27T03:54:34Z",
+            "owner": "TheLarkInn",
+            "repo": "webpack-workshop-2018",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complete Intro to Web Development",
+          "description": "intro-to-web-dev-v2 Brian Holt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130425937,
+            "language": "JavaScript",
+            "last_commit": "2023-02-09T01:44:54Z",
+            "owner": "btholt",
+            "repo": "intro-to-web-dev-v2",
+            "stars": 1541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless with AWS Lambda",
+          "description": "serverless-with-aws Scott Moss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130108915,
+            "language": "JavaScript",
+            "last_commit": "2022-12-22T23:10:50Z",
+            "owner": "FrontendMasters",
+            "repo": "serverless-with-aws",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQL Fundamentals",
+          "description": "sql-fundamentals Mike North",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111384465,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T21:42:17Z",
+            "owner": "mike-works",
+            "repo": "sql-fundamentals",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4 Semesters of CS in 5 Hours",
+          "description": "four-semesters-of-cs Brian Holt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49085402,
+            "language": "HTML",
+            "last_commit": "2020-05-17T11:31:10Z",
+            "owner": "btholt",
+            "repo": "four-semesters-of-cs",
+            "stars": 668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git in Depth",
+          "description": "advanced-git Nina Zakharenko",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105804084,
+            "language": null,
+            "last_commit": "2023-10-25T12:47:41Z",
+            "owner": "nnja",
+            "repo": "advanced-git",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Security",
+          "description": "web-security-fundamentals Mike North",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101582475,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T19:33:50Z",
+            "owner": "mike-works",
+            "repo": "web-security-fundamentals",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript for Wordpress",
+          "description": "frontend-masters-jsforwp Zac Gordon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98476326,
+            "language": "CSS",
+            "last_commit": "2018-08-07T09:49:44Z",
+            "owner": "zgordon",
+            "repo": "frontend-masters-jsforwp",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PWA Fundamentals",
+          "description": "pwa-fundamentals Mike North",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96915788,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T02:04:57Z",
+            "owner": "mike-works",
+            "repo": "pwa-fundamentals",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern SEO",
+          "description": "modern-seo Mike North",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87770117,
+            "language": "Handlebars",
+            "last_commit": "2026-08-14T18:57:48Z",
+            "owner": "mike-works",
+            "repo": "modern-seo",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust APIs with the Hapi.js Server Framework for Node.js",
+          "description": "fem-instructors-app Ryan Chenkie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85427598,
+            "language": "TypeScript",
+            "last_commit": "2020-09-30T19:05:51Z",
+            "owner": "chenkie",
+            "repo": "fem-instructors-app",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unit Testing with JavaScript",
+          "description": "real-world-testing Test Double",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 16517031,
+            "language": "JavaScript",
+            "last_commit": "2021-05-11T13:37:15Z",
+            "owner": "testdouble",
+            "repo": "real-world-testing",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:04:27.438Z",
+    "last_updated": "2026-08-24T14:30:54.584Z",
     "original_repository": "rahuldkjain/awesome-frontendmasters",
     "original_repository_id": 314760324,
     "original_repository_sha": "d1519ba27c8b1e2a7ed27dbbea8b17221b65bd7a",
