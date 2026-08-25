@@ -270,7 +270,7 @@
             "last_commit": "2023-01-07T11:08:35Z",
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1043
+            "stars": 1044
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184719
+            "stars": 184720
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359620
+            "stars": 359671
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184719
+            "stars": 184720
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2024-03-01T20:58:04Z",
             "owner": "FrontendMasters",
             "repo": "api-design-node-v3",
-            "stars": 691
+            "stars": 692
           }
         },
         {
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:54.584Z",
+    "last_updated": "2026-08-25T04:56:30.361Z",
     "original_repository": "rahuldkjain/awesome-frontendmasters",
     "original_repository_id": 314760324,
     "original_repository_sha": "d1519ba27c8b1e2a7ed27dbbea8b17221b65bd7a",
