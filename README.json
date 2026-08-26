@@ -615,7 +615,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184721
+            "stars": 184723
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359677
+            "stars": 359731
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184721
+            "stars": 184723
           }
         },
         {
@@ -702,7 +702,7 @@
             "archived": false,
             "id": 89722054,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:00:44Z",
+            "last_commit": "2026-08-25T14:08:51Z",
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
             "stars": 871
@@ -1107,7 +1107,7 @@
             "archived": false,
             "id": 87770117,
             "language": "Handlebars",
-            "last_commit": "2026-08-14T18:57:48Z",
+            "last_commit": "2026-08-25T23:07:15Z",
             "owner": "mike-works",
             "repo": "modern-seo",
             "stars": 119
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:00.965Z",
+    "last_updated": "2026-08-26T04:58:00.581Z",
     "original_repository": "rahuldkjain/awesome-frontendmasters",
     "original_repository_id": 314760324,
     "original_repository_sha": "d1519ba27c8b1e2a7ed27dbbea8b17221b65bd7a",
