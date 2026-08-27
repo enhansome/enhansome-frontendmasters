@@ -600,7 +600,7 @@
             "last_commit": "2022-12-09T21:48:15Z",
             "owner": "FrontendMasters",
             "repo": "ember-octane",
-            "stars": 39
+            "stars": 38
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184723
+            "stars": 184741
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2024-03-01T20:55:42Z",
             "owner": "FrontendMasters",
             "repo": "gatsby-intro",
-            "stars": 250
+            "stars": 249
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2023-03-02T18:12:46Z",
             "owner": "btholt",
             "repo": "complete-intro-to-react-v5",
-            "stars": 3582
+            "stars": 3581
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359731
+            "stars": 359826
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184723
+            "stars": 184741
           }
         },
         {
@@ -702,7 +702,7 @@
             "archived": false,
             "id": 89722054,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T14:08:51Z",
+            "last_commit": "2026-08-26T20:43:53Z",
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
             "stars": 871
@@ -735,7 +735,7 @@
             "last_commit": "2024-03-01T20:58:04Z",
             "owner": "FrontendMasters",
             "repo": "api-design-node-v3",
-            "stars": 692
+            "stars": 691
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2023-02-09T01:44:54Z",
             "owner": "btholt",
             "repo": "intro-to-web-dev-v2",
-            "stars": 1541
+            "stars": 1540
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2022-12-22T23:10:50Z",
             "owner": "FrontendMasters",
             "repo": "serverless-with-aws",
-            "stars": 137
+            "stars": 136
           }
         },
         {
@@ -1017,10 +1017,10 @@
             "archived": false,
             "id": 111384465,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:42:17Z",
+            "last_commit": "2026-08-27T08:55:24Z",
             "owner": "mike-works",
             "repo": "sql-fundamentals",
-            "stars": 173
+            "stars": 172
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "archived": false,
             "id": 101582475,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T19:33:50Z",
+            "last_commit": "2026-08-26T19:58:04Z",
             "owner": "mike-works",
             "repo": "web-security-fundamentals",
             "stars": 261
@@ -1092,7 +1092,7 @@
             "archived": false,
             "id": 96915788,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T02:04:57Z",
+            "last_commit": "2026-08-27T01:36:41Z",
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
             "stars": 273
@@ -1107,7 +1107,7 @@
             "archived": false,
             "id": 87770117,
             "language": "Handlebars",
-            "last_commit": "2026-08-25T23:07:15Z",
+            "last_commit": "2026-08-26T18:08:41Z",
             "owner": "mike-works",
             "repo": "modern-seo",
             "stars": 119
@@ -1148,9 +1148,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:58:00.581Z",
-    "original_repository": "rahuldkjain/awesome-frontendmasters",
-    "original_repository_id": 314760324,
+    "last_updated": "2026-08-27T11:41:25.879Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 314760324,
+      "language": null,
+      "last_commit": "2020-11-21T11:18:28Z",
+      "owner": "rahuldkjain",
+      "repo": "awesome-frontendmasters",
+      "stars": 356
+    },
     "original_repository_sha": "d1519ba27c8b1e2a7ed27dbbea8b17221b65bd7a",
     "enhanced_repository": "enhansome/enhansome-frontendmasters",
     "enhanced_repository_description": null,
