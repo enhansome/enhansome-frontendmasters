@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 283415197,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T12:44:21Z",
+            "open_issues": 16,
             "owner": "Hendrixer",
             "repo": "nextjs-course-app",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mike's JS/TS Monorepos Course",
+            "homepage": "https://frontendmasters.com/courses/monorepos/",
             "id": 303568643,
             "language": "TypeScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-19T16:55:41Z",
+            "open_issues": 4,
             "owner": "mike-north",
             "repo": "js-ts-monorepos",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 241167097,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-05T13:52:14Z",
+            "open_issues": 14,
             "owner": "emmabostian",
             "repo": "fem-design-systems",
-            "stars": 530
+            "stars": 530,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 291797098,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-02T14:12:36Z",
+            "open_issues": 0,
             "owner": "jeromehardaway",
             "repo": "how-to-get-front-end-job",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "building-web-app-with-vue",
+            "homepage": null,
             "id": 285059448,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-01-06T21:00:16Z",
+            "open_issues": 190,
             "owner": "sdras",
             "repo": "building-web-apps-with-vue",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "building-web-app-with-vue",
+            "homepage": null,
             "id": 285059448,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-01-06T21:00:16Z",
+            "open_issues": 190,
             "owner": "sdras",
             "repo": "building-web-apps-with-vue",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -106,12 +136,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workshop Materials for my Introduction to Vue.js Workshop",
+            "homepage": "https://frontendmasters.com/workshops/vue-v2/",
             "id": 96451164,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-03-05T18:39:43Z",
+            "open_issues": 185,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2765
+            "stars": 2765,
+            "topics": [
+              "introduction-to-nuxt",
+              "introduction-to-vue",
+              "nuxt",
+              "vue",
+              "vue-animations",
+              "vue-cli",
+              "vue-directive",
+              "vue-methods",
+              "vue-watchers",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -122,12 +168,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workshop Materials for my Introduction to Vue.js Workshop",
+            "homepage": "https://frontendmasters.com/workshops/vue-v2/",
             "id": 96451164,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-03-05T18:39:43Z",
+            "open_issues": 185,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2765
+            "stars": 2765,
+            "topics": [
+              "introduction-to-nuxt",
+              "introduction-to-vue",
+              "nuxt",
+              "vue",
+              "vue-animations",
+              "vue-cli",
+              "vue-directive",
+              "vue-methods",
+              "vue-watchers",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -138,12 +200,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for the Serverless workshop on Frontend Masters.",
+            "homepage": "https://frontendmasters.com/courses/serverless-functions/",
             "id": 280740005,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-04-06T15:21:34Z",
+            "open_issues": 8,
             "owner": "jlengstorf",
             "repo": "frontendmasters-serverless",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "serverless",
+              "serverless-functions",
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -154,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐧  The Complete Intro to Linux and the Command Line, as taught for Frontend Masters ",
+            "homepage": "https://frontendmasters.com/courses/linux-command-line/",
             "id": 266430669,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-24T02:35:41Z",
+            "open_issues": 40,
             "owner": "btholt",
             "repo": "complete-intro-to-linux-and-the-cli",
-            "stars": 401
+            "stars": 401,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -170,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 270781688,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-03T23:21:34Z",
+            "open_issues": 0,
             "owner": "shortdiv",
             "repo": "frontend-masters-vuex",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -186,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 270781688,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-03T23:21:34Z",
+            "open_issues": 0,
             "owner": "shortdiv",
             "repo": "frontend-masters-vuex",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -202,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The website for the Svelte workshop",
+            "homepage": null,
             "id": 271698616,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T08:40:27Z",
+            "open_issues": 16,
             "owner": "Rich-Harris",
             "repo": "svelte-workshop",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -218,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://frontendmasters.com/courses/angular-9/",
             "id": 266682302,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-06T06:54:47Z",
+            "open_issues": 17,
             "owner": "onehungrymind",
             "repo": "angular9-fundamentals-workshop",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -234,12 +330,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend Masters State Machines & XState Workshop",
+            "homepage": "https://frontendmasters.com/courses/xstate/",
             "id": 262686040,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-09T02:58:46Z",
+            "open_issues": 2,
             "owner": "davidkpiano",
             "repo": "frontend-masters-xstate-workshop",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -250,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A brief course where we use JavaScript, HTML, and CSS to make a digital pet staring our little fox friend.",
+            "homepage": "https://bit.ly/fox-game",
             "id": 253988125,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-12T00:41:41Z",
+            "open_issues": 21,
             "owner": "btholt",
             "repo": "project-fox-game-site",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -266,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Native v2 course material for Frontend Masters",
+            "homepage": "https://kadikraman.github.io/react-native-v2/",
             "id": 244730323,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-23T15:02:05Z",
+            "open_issues": 0,
             "owner": "kadikraman",
             "repo": "react-native-v2",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -282,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A workshop on WebGL and GLSL",
+            "homepage": "https://frontendmasters.com/courses/webgl-shaders/",
             "id": 217290873,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-07T11:08:35Z",
+            "open_issues": 16,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1044
+            "stars": 1044,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -298,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 210075473,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-07-07T20:18:53Z",
+            "open_issues": 2,
             "owner": "martensonbj",
             "repo": "fem-intro-to-go",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -314,12 +437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "practically functional programming workshop",
+            "homepage": null,
             "id": 64089647,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-09T15:58:16Z",
+            "open_issues": 2,
             "owner": "DrBoolean",
             "repo": "Practically-Functional",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -330,12 +458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A book about functional programming in JavaScript.",
+            "homepage": null,
             "id": 86514517,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-19T13:29:49Z",
+            "open_issues": 0,
             "owner": "DrBoolean",
             "repo": "Functional-Light-JS",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -346,12 +479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Practical Guide to Deep Learning with TensorFlow 2.0 and Keras materials for Frontend Masters course",
+            "homepage": "https://frontendmasters.com/courses/practical-machine-learning/",
             "id": 221452728,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-26T12:47:41Z",
+            "open_issues": 1,
             "owner": "Vadikus",
             "repo": "practicalDL",
-            "stars": 252
+            "stars": 252,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -362,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Advanced GraphQL Course on Frontend Masters",
+            "homepage": "https://frontendmasters.com/courses/advanced-graphql-v2/",
             "id": 215489362,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-26T16:04:24Z",
+            "open_issues": 19,
             "owner": "FrontendMasters",
             "repo": "advanced-gql-v2",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -378,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://frontendmasters.com/courses/jamstack/",
             "id": 215400244,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-05T21:31:58Z",
+            "open_issues": 2,
             "owner": "jlengstorf",
             "repo": "jamstack-intro",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -394,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure React State Management course documentation",
+            "homepage": null,
             "id": 232422468,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-08T11:17:29Z",
+            "open_issues": 1,
             "owner": "FrontendMasters",
             "repo": "pure-react-state-management",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -410,12 +563,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Questions/Answers for the Frontend Masters course \"Interviewing for Frontend\"",
+            "homepage": "https://frontendmasters.com/workshops/interviewing/",
             "id": 216703782,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-25T01:37:03Z",
+            "open_issues": 4,
             "owner": "young",
             "repo": "frontend-interviewing",
-            "stars": 442
+            "stars": 442,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -426,12 +584,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Complete Intro to Containers! As taught on Frontend Masters.",
+            "homepage": "https://frontendmasters.com/courses/complete-intro-containers/",
             "id": 203060823,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-12T09:39:29Z",
+            "open_issues": 46,
             "owner": "btholt",
             "repo": "complete-intro-to-containers",
-            "stars": 945
+            "stars": 945,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -442,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Completed Exercises from http://csbin.io - JS hard parts (frontendmasters)",
+            "homepage": "https://frontendmasters.com/courses/javascript-hard-parts/",
             "id": 131882997,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-02-17T21:20:14Z",
+            "open_issues": 1,
             "owner": "StevanCakic",
             "repo": "js-hard-parts",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -458,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://frontendmasters.com/courses/intermediate-gatsby/",
             "id": 214454134,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-30T18:22:03Z",
+            "open_issues": 18,
             "owner": "jlengstorf",
             "repo": "gatsby-intermediate",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -474,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 215062743,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-08-01T15:35:03Z",
+            "open_issues": 34,
             "owner": "FrontendMasters",
             "repo": "fullstack-graphql",
-            "stars": 370
+            "stars": 370,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -490,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 215062743,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-08-01T15:35:03Z",
+            "open_issues": 34,
             "owner": "FrontendMasters",
             "repo": "fullstack-graphql",
-            "stars": 370
+            "stars": 370,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -506,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 73535040,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-12T06:55:16Z",
+            "open_issues": 0,
             "owner": "young",
             "repo": "Full-Stack-For-Frontend",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -522,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code examples for HTML Email v2 workshop from Frontend Masters. ",
+            "homepage": "https://frontendmasters.com/courses/html-email-v2/",
             "id": 209849941,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-01-01T22:37:36Z",
+            "open_issues": 3,
             "owner": "rodriguezcommaj",
             "repo": "frontendmasters",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -538,12 +731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://frontendmasters.com/courses/programming-language/",
             "id": 189435300,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-03T23:02:21Z",
+            "open_issues": 13,
             "owner": "stevekinney",
             "repo": "dropbear",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -554,12 +752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The VS Code Can Do That workshop for Frontend Masters",
+            "homepage": null,
             "id": 200731909,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-12T07:37:22Z",
+            "open_issues": 79,
             "owner": "burkeholland",
             "repo": "workshop-vs-code-can-do-that",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -570,12 +773,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend Masters course, \"Advanced CSS Layout\"",
+            "homepage": "https://frontendmasters.com/courses/advanced-css-layouts/",
             "id": 201683309,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-11-18T14:08:12Z",
+            "open_issues": 6,
             "owner": "jen4web",
             "repo": "fem-adv-css-layout",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "css",
+              "css-grid",
+              "css3"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -586,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend Masters Workshop: Accessibility in JavaScript Applications",
+            "homepage": "https://frontendmasters.com/courses/javascript-accessibility/",
             "id": 195588176,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-03T10:08:28Z",
+            "open_issues": 15,
             "owner": "marcysutton",
             "repo": "js-a11y-workshop",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -602,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://frontendmasters.com/courses/redux-mobx/",
             "id": 189227850,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-01-04T15:59:23Z",
+            "open_issues": 21,
             "owner": "stevekinney",
             "repo": "redux-counter",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -618,12 +840,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Service Workers / PWA section of the Service Workers & Offline course by Kyle Simpson",
+            "homepage": "https://frontendmasters.com/courses/service-workers/",
             "id": 197042331,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-11T15:22:31Z",
+            "open_issues": 0,
             "owner": "FrontendMasters",
             "repo": "service-workers-offline",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "offline",
+              "pwa",
+              "service-worker"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -634,12 +865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mike North's Ember Octane workshop",
+            "homepage": "https://frontendmasters.com/courses/ember-octane/",
             "id": 184290304,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-12-09T21:48:15Z",
+            "open_issues": 24,
             "owner": "FrontendMasters",
             "repo": "ember-octane",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -650,12 +886,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A book series (2 published editions) on the JS language.",
+            "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
             "id": 14440270,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-02-15T04:36:44Z",
+            "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184748
+            "stars": 184747,
+            "topics": [
+              "async",
+              "book",
+              "book-series",
+              "closures",
+              "education",
+              "es2015",
+              "es6",
+              "javascript",
+              "learn-to-code",
+              "programming",
+              "prototypes",
+              "training-materials",
+              "training-providers"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -666,12 +921,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Introduction to Gatsby course.",
+            "homepage": "https://frontendmasters.com/courses/gatsby/",
             "id": 184125955,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-01T20:55:42Z",
+            "open_issues": 30,
             "owner": "FrontendMasters",
             "repo": "gatsby-intro",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -682,12 +942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Complete Intro to React, the fifth version",
+            "homepage": "https://frontendmasters.com/learn/react/",
             "id": 166721244,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-02T18:12:46Z",
+            "open_issues": 52,
             "owner": "btholt",
             "repo": "complete-intro-to-react-v5",
-            "stars": 3581
+            "stars": 3581,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -698,12 +963,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete computer science study plan to become a software engineer.",
+            "homepage": null,
             "id": 60493101,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
+            "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359904
+            "stars": 359924,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "coding-interview",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-prep",
+              "interview-preparation",
+              "programming-interviews",
+              "software-engineering",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -714,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front End Masters Python - Course Website at https://learnpython.dev",
+            "homepage": "https://learnpython.dev",
             "id": 171074362,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-01-31T09:14:13Z",
+            "open_issues": 5,
             "owner": "nnja",
             "repo": "python",
-            "stars": 495
+            "stars": 495,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -730,12 +1018,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A book series (2 published editions) on the JS language.",
+            "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
             "id": 14440270,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-02-15T04:36:44Z",
+            "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184748
+            "stars": 184747,
+            "topics": [
+              "async",
+              "book",
+              "book-series",
+              "closures",
+              "education",
+              "es2015",
+              "es6",
+              "javascript",
+              "learn-to-code",
+              "programming",
+              "prototypes",
+              "training-materials",
+              "training-providers"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -746,12 +1053,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mike North's 2018 TypeScript Fundamentals Course",
+            "homepage": "https://frontendmasters.com/courses/typescript/",
             "id": 89722054,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T10:42:00Z",
+            "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
-            "stars": 871
+            "stars": 871,
+            "topics": [
+              "async-await",
+              "course",
+              "javascript",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -762,12 +1079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demostration application for working with Firebase and Cloud Firestore",
+            "homepage": "https://frontendmasters.com/courses/firebase-react-v2/",
             "id": 161537442,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-05T15:39:46Z",
+            "open_issues": 43,
             "owner": "stevekinney",
             "repo": "think-piece",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -778,12 +1100,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Course] API design in Node with Express v3",
+            "homepage": "https://frontendmasters.com/courses/api-design-nodejs-v3/",
             "id": 160208775,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-03-01T20:58:04Z",
+            "open_issues": 37,
             "owner": "FrontendMasters",
             "repo": "api-design-node-v3",
-            "stars": 691
+            "stars": 691,
+            "topics": [
+              "express",
+              "mongodb",
+              "mongoose",
+              "nodejs",
+              "rest"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -794,12 +1127,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for SVG Essentials & Animation Course",
+            "homepage": "https://frontendmasters.com/courses/svg-essentials-animation/",
             "id": 60487530,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-01-15T00:27:34Z",
+            "open_issues": 2,
             "owner": "sdras",
             "repo": "svg-workshop",
-            "stars": 843
+            "stars": 843,
+            "topics": [
+              "codepen",
+              "greensock",
+              "gsap",
+              "react",
+              "svg",
+              "svg-animations",
+              "svg-workshop",
+              "timeline"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -810,12 +1157,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for SVG Essentials & Animation Course",
+            "homepage": "https://frontendmasters.com/courses/svg-essentials-animation/",
             "id": 60487530,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-01-15T00:27:34Z",
+            "open_issues": 2,
             "owner": "sdras",
             "repo": "svg-workshop",
-            "stars": 843
+            "stars": 843,
+            "topics": [
+              "codepen",
+              "greensock",
+              "gsap",
+              "react",
+              "svg",
+              "svg-animations",
+              "svg-workshop",
+              "timeline"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -826,12 +1187,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design for Developers Workshop",
+            "homepage": "https://frontendmasters.com/courses/design-for-developers/",
             "id": 149911333,
             "language": null,
+            "license": null,
             "last_commit": "2019-01-15T00:44:00Z",
+            "open_issues": 1,
             "owner": "sdras",
             "repo": "design-for-developers",
-            "stars": 776
+            "stars": 776,
+            "topics": [
+              "beginning-design",
+              "design",
+              "design-101",
+              "design-for-developers",
+              "design-for-devs",
+              "developers-learning-design",
+              "learning-design"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -842,12 +1216,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design for Developers Workshop",
+            "homepage": "https://frontendmasters.com/courses/design-for-developers/",
             "id": 149911333,
             "language": null,
+            "license": null,
             "last_commit": "2019-01-15T00:44:00Z",
+            "open_issues": 1,
             "owner": "sdras",
             "repo": "design-for-developers",
-            "stars": 776
+            "stars": 776,
+            "topics": [
+              "beginning-design",
+              "design",
+              "design-101",
+              "design-for-developers",
+              "design-for-devs",
+              "developers-learning-design",
+              "learning-design"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -858,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the \"Reactive Angular with NgRx\" Course on Frontend Masters",
+            "homepage": "https://frontendmasters.com/courses/angular-reactive/",
             "id": 154181043,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-02-28T03:46:51Z",
+            "open_issues": 36,
             "owner": "onehungrymind",
             "repo": "angular-reactive-workshop",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -874,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the \"Angular Core\" Course on Frontend Masters",
+            "homepage": "https://frontendmasters.com/courses/angular-core/",
             "id": 154180824,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-03T15:17:43Z",
+            "open_issues": 30,
             "owner": "onehungrymind",
             "repo": "angular-core-workshop",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -890,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the \"Angular Core\" Course on Frontend Masters",
+            "homepage": "https://frontendmasters.com/courses/angular-core/",
             "id": 154180824,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-03T15:17:43Z",
+            "open_issues": 30,
             "owner": "onehungrymind",
             "repo": "angular-core-workshop",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -906,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A workshop on creative coding & generative art",
+            "homepage": "https://frontendmasters.com/courses/canvas-webgl/",
             "id": 151227199,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-04-30T02:42:40Z",
+            "open_issues": 5,
             "owner": "mattdesl",
             "repo": "workshop-generative-art",
-            "stars": 1406
+            "stars": 1406,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -922,12 +1329,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Course] Introduction to MongoDB code",
+            "homepage": "https://frontendmasters.com/courses/mongodb/",
             "id": 152273811,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-10T03:20:21Z",
+            "open_issues": 23,
             "owner": "FrontendMasters",
             "repo": "intro-mongo-db",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "mongo",
+              "mongodb",
+              "mongoose",
+              "mongoosejs"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -938,12 +1355,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Course] Code for Introduction to Node.js",
+            "homepage": "https://frontendmasters.com/courses/node-js/",
             "id": 152273271,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-03-01T20:53:37Z",
+            "open_issues": 20,
             "owner": "FrontendMasters",
             "repo": "intro-node-js",
-            "stars": 374
+            "stars": 374,
+            "topics": [
+              "exercises",
+              "node",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -954,12 +1380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elm 0.19 workshops. Includes Intro and Advanced courses.",
+            "homepage": null,
             "id": 143594667,
             "language": "Elm",
+            "license": "MIT",
             "last_commit": "2023-01-05T23:46:24Z",
+            "open_issues": 38,
             "owner": "rtfeldman",
             "repo": "elm-0.19-workshop",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -970,12 +1401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elm 0.19 workshops. Includes Intro and Advanced courses.",
+            "homepage": null,
             "id": 143594667,
             "language": "Elm",
+            "license": "MIT",
             "last_commit": "2023-01-05T23:46:24Z",
+            "open_issues": 38,
             "owner": "rtfeldman",
             "repo": "elm-0.19-workshop",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -986,12 +1422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: Website for teaching Chrome DevTools",
+            "homepage": null,
             "id": 51627322,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-28T00:19:24Z",
+            "open_issues": 6,
             "owner": "jkup",
             "repo": "mastering-chrome-devtools",
-            "stars": 711
+            "stars": 711,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1002,12 +1443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Created with CodeSandbox",
+            "homepage": "https://codesandbox.io/s/github/sxywu/custom-dataviz-example",
             "id": 143076814,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-03T02:08:56Z",
+            "open_issues": 0,
             "owner": "sxywu",
             "repo": "custom-dataviz-example",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1018,12 +1464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 128824999,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-15T12:08:47Z",
+            "open_issues": 1,
             "owner": "sxywu",
             "repo": "react-d3-example",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1034,12 +1485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning resources for the webpack academy workshop series for 2018 ",
+            "homepage": null,
             "id": 127812616,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-04-27T03:54:34Z",
+            "open_issues": 4,
             "owner": "TheLarkInn",
             "repo": "webpack-workshop-2018",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1050,12 +1506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intro to Web Dev, v2",
+            "homepage": "https://frontendmasters.com/courses/web-development-v2/",
             "id": 130425937,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-09T01:44:54Z",
+            "open_issues": 46,
             "owner": "btholt",
             "repo": "intro-to-web-dev-v2",
-            "stars": 1540
+            "stars": 1540,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1066,12 +1527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Course] Serverless with AWS: Get a quick start into the world of Serverless functions with AWS Lambda.",
+            "homepage": "https://frontendmasters.com/courses/serverless-aws/",
             "id": 130108915,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-22T23:10:50Z",
+            "open_issues": 4,
             "owner": "FrontendMasters",
             "repo": "serverless-with-aws",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1082,12 +1548,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mike North's SQL Fundamentals and Professional SQL Courses",
+            "homepage": "https://frontendmasters.com/courses/sql-fundamentals/",
             "id": 111384465,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T08:55:24Z",
+            "open_issues": 51,
             "owner": "mike-works",
             "repo": "sql-fundamentals",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "course",
+              "database",
+              "mysql",
+              "nodejs",
+              "postgresql",
+              "rest-api",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1098,12 +1577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://frontendmasters.com/courses/computer-science/",
             "id": 49085402,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-05-17T11:31:10Z",
+            "open_issues": 22,
             "owner": "btholt",
             "repo": "four-semesters-of-cs",
-            "stars": 668
+            "stars": 668,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1114,12 +1598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend Masters Advanced Git - by Nina Zakharenko",
+            "homepage": "http://frontendmasters.com/workshops/git-indepth/",
             "id": 105804084,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-25T12:47:41Z",
+            "open_issues": 2,
             "owner": "nnja",
             "repo": "advanced-git",
-            "stars": 798
+            "stars": 798,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1130,12 +1619,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mike North's Web Security Course",
+            "homepage": "https://frontendmasters.com/courses/web-security/",
             "id": 101582475,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T19:58:04Z",
+            "open_issues": 40,
             "owner": "mike-works",
             "repo": "web-security-fundamentals",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "clickjacking",
+              "cors",
+              "course",
+              "csrf",
+              "security",
+              "web-security",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1146,12 +1648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example files for Frontend Masters Class JavaScript for WordPress Course",
+            "homepage": null,
             "id": 98476326,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-08-07T09:49:44Z",
+            "open_issues": 2,
             "owner": "zgordon",
             "repo": "frontend-masters-jsforwp",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1162,12 +1669,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👨‍🏫 Mike & Steve's Progressive Web Fundamentals Course",
+            "homepage": "https://frontendmasters.com/courses/progressive-web-apps/",
             "id": 96915788,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T10:38:21Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T17:41:56Z",
+            "open_issues": 76,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "course",
+              "javascript",
+              "mobile-web",
+              "progressive-web-app",
+              "pwa",
+              "service-worker",
+              "web-performance",
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1178,12 +1699,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mike North's Modern SEO Course",
+            "homepage": "https://frontendmasters.com/courses/modern-seo/",
             "id": 87770117,
             "language": "Handlebars",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T18:08:41Z",
+            "open_issues": 15,
             "owner": "mike-works",
             "repo": "modern-seo",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "amp-html",
+              "course",
+              "mobile",
+              "schema-org",
+              "seo",
+              "structured-data"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1194,12 +1727,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client side app for Front End Masters Hapi.js Workshop",
+            "homepage": null,
             "id": 85427598,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-09-30T19:05:51Z",
+            "open_issues": 1,
             "owner": "chenkie",
             "repo": "fem-instructors-app",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "angular",
+              "api",
+              "hapijs"
+            ]
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         },
@@ -1210,12 +1752,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Workshop for Testing JavaScripts",
+            "homepage": null,
             "id": 16517031,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-11T13:37:15Z",
+            "open_issues": 2,
             "owner": "testdouble",
             "repo": "real-world-testing",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
         }
@@ -1224,15 +1771,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:41:39.508Z",
+    "last_updated": "2026-08-29T04:45:29.317Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📚 List of awesome frontendmasters course resources",
+      "homepage": null,
       "id": 314760324,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-11-21T11:18:28Z",
+      "open_issues": 0,
       "owner": "rahuldkjain",
       "repo": "awesome-frontendmasters",
-      "stars": 356
+      "stars": 356,
+      "topics": [
+        "angular",
+        "awesome",
+        "awesome-list",
+        "d3",
+        "frontendmasters",
+        "gatsby",
+        "javascript",
+        "nodejs",
+        "react",
+        "typescript",
+        "vue"
+      ]
     },
     "original_repository_sha": "d1519ba27c8b1e2a7ed27dbbea8b17221b65bd7a",
     "enhanced_repository": "enhansome/enhansome-frontendmasters",
