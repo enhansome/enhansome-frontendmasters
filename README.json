@@ -698,7 +698,7 @@
             "open_issues": 0,
             "owner": "young",
             "repo": "Full-Stack-For-Frontend",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184749,
+            "stars": 184763,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359942,
+            "stars": 359994,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184749,
+            "stars": 184763,
             "topics": [
               "async",
               "book",
@@ -1708,7 +1708,7 @@
             "open_issues": 15,
             "owner": "mike-works",
             "repo": "modern-seo",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "amp-html",
               "course",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:09:25.195Z",
+    "last_updated": "2026-08-30T09:58:05.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
