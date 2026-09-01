@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184761,
+            "stars": 184770,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 360058,
+            "stars": 360127,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184761,
+            "stars": 184770,
             "topics": [
               "async",
               "book",
@@ -1058,7 +1058,7 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T10:42:00Z",
+            "last_commit": "2026-08-31T20:54:53Z",
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
@@ -1515,7 +1515,7 @@
             "open_issues": 46,
             "owner": "btholt",
             "repo": "intro-to-web-dev-v2",
-            "stars": 1540,
+            "stars": 1539,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:55:19.415Z",
+    "last_updated": "2026-09-01T09:26:40.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
@@ -1783,7 +1783,7 @@
       "open_issues": 0,
       "owner": "rahuldkjain",
       "repo": "awesome-frontendmasters",
-      "stars": 356,
+      "stars": 355,
       "topics": [
         "angular",
         "awesome",
