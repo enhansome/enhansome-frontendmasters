@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184770,
+            "stars": 184775,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 360127,
+            "stars": 360216,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184770,
+            "stars": 184775,
             "topics": [
               "async",
               "book",
@@ -1058,7 +1058,7 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T20:54:53Z",
+            "last_commit": "2026-09-01T10:40:58Z",
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
@@ -1553,7 +1553,7 @@
             "id": 111384465,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T08:55:24Z",
+            "last_commit": "2026-09-01T21:57:01Z",
             "open_issues": 51,
             "owner": "mike-works",
             "repo": "sql-fundamentals",
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T16:28:19Z",
+            "last_commit": "2026-09-01T22:14:35Z",
             "open_issues": 76,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:26:40.035Z",
+    "last_updated": "2026-09-02T08:48:55.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
