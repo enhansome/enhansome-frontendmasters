@@ -145,7 +145,7 @@
             "open_issues": 185,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2765,
+            "stars": 2764,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -177,7 +177,7 @@
             "open_issues": 185,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2765,
+            "stars": 2764,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -404,7 +404,7 @@
             "open_issues": 16,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184775,
+            "stars": 184793,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 360216,
+            "stars": 360268,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184775,
+            "stars": 184793,
             "topics": [
               "async",
               "book",
@@ -1058,7 +1058,7 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T10:40:58Z",
+            "last_commit": "2026-09-02T16:05:23Z",
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
@@ -1431,7 +1431,7 @@
             "open_issues": 6,
             "owner": "jkup",
             "repo": "mastering-chrome-devtools",
-            "stars": 711,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1553,8 +1553,8 @@
             "id": 111384465,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T21:57:01Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-03T03:38:04Z",
+            "open_issues": 50,
             "owner": "mike-works",
             "repo": "sql-fundamentals",
             "stars": 172,
@@ -1624,8 +1624,8 @@
             "id": 101582475,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-26T19:58:04Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-03T05:59:59Z",
+            "open_issues": 39,
             "owner": "mike-works",
             "repo": "web-security-fundamentals",
             "stars": 261,
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T22:14:35Z",
+            "last_commit": "2026-09-02T16:57:23Z",
             "open_issues": 76,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1704,7 +1704,7 @@
             "id": 87770117,
             "language": "Handlebars",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-26T18:08:41Z",
+            "last_commit": "2026-09-03T01:27:09Z",
             "open_issues": 15,
             "owner": "mike-works",
             "repo": "modern-seo",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:48:55.568Z",
+    "last_updated": "2026-09-03T08:58:49.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
