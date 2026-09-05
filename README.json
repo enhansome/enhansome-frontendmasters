@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184806,
+            "stars": 184809,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 360326,
+            "stars": 360372,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184806,
+            "stars": 184809,
             "topics": [
               "async",
               "book",
@@ -1553,7 +1553,7 @@
             "id": 111384465,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T05:07:10Z",
+            "last_commit": "2026-09-05T04:54:20Z",
             "open_issues": 53,
             "owner": "mike-works",
             "repo": "sql-fundamentals",
@@ -1624,8 +1624,8 @@
             "id": 101582475,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T06:49:40Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-04T18:56:52Z",
+            "open_issues": 43,
             "owner": "mike-works",
             "repo": "web-security-fundamentals",
             "stars": 261,
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T05:31:51Z",
+            "last_commit": "2026-09-05T06:13:32Z",
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:52:47.509Z",
+    "last_updated": "2026-09-05T08:23:15.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
