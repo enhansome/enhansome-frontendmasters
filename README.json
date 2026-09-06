@@ -145,7 +145,7 @@
             "open_issues": 186,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2764,
+            "stars": 2762,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -177,7 +177,7 @@
             "open_issues": 186,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2764,
+            "stars": 2762,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184809,
+            "stars": 184819,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 360372,
+            "stars": 360417,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184809,
+            "stars": 184819,
             "topics": [
               "async",
               "book",
@@ -1553,7 +1553,7 @@
             "id": 111384465,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T04:54:20Z",
+            "last_commit": "2026-09-05T21:47:44Z",
             "open_issues": 53,
             "owner": "mike-works",
             "repo": "sql-fundamentals",
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T06:13:32Z",
+            "last_commit": "2026-09-06T04:59:41Z",
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:23:15.403Z",
+    "last_updated": "2026-09-06T08:42:00.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
