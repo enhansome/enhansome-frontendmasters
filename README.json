@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184834,
+            "stars": 184841,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 125,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 360551,
+            "stars": 360617,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184834,
+            "stars": 184841,
             "topics": [
               "async",
               "book",
@@ -1062,7 +1062,7 @@
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
-            "stars": 871,
+            "stars": 870,
             "topics": [
               "async-await",
               "course",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:54:09.791Z",
+    "last_updated": "2026-09-09T08:59:48.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
