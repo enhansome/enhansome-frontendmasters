@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184929,
+            "stars": 184938,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 361468,
+            "stars": 361679,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184929,
+            "stars": 184938,
             "topics": [
               "async",
               "book",
@@ -1058,7 +1058,7 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-19T17:07:10Z",
+            "last_commit": "2026-09-21T21:53:11Z",
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
@@ -1317,7 +1317,7 @@
             "open_issues": 5,
             "owner": "mattdesl",
             "repo": "workshop-generative-art",
-            "stars": 1405,
+            "stars": 1406,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1364,7 +1364,7 @@
             "open_issues": 20,
             "owner": "FrontendMasters",
             "repo": "intro-node-js",
-            "stars": 374,
+            "stars": 373,
             "topics": [
               "exercises",
               "node",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:59:43.033Z",
+    "last_updated": "2026-09-22T09:20:22.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
