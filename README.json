@@ -972,7 +972,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 361750,
+            "stars": 361786,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1062,7 +1062,7 @@
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
-            "stars": 870,
+            "stars": 869,
             "topics": [
               "async-await",
               "course",
@@ -1628,7 +1628,7 @@
             "open_issues": 43,
             "owner": "mike-works",
             "repo": "web-security-fundamentals",
-            "stars": 261,
+            "stars": 260,
             "topics": [
               "clickjacking",
               "cors",
@@ -1678,7 +1678,7 @@
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
-            "stars": 273,
+            "stars": 272,
             "topics": [
               "course",
               "javascript",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:20:49.887Z",
+    "last_updated": "2026-09-24T09:20:49.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
@@ -1783,7 +1783,7 @@
       "open_issues": 0,
       "owner": "rahuldkjain",
       "repo": "awesome-frontendmasters",
-      "stars": 355,
+      "stars": 354,
       "topics": [
         "angular",
         "awesome",
