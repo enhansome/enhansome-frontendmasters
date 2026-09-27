@@ -103,7 +103,7 @@
             "open_issues": 190,
             "owner": "sdras",
             "repo": "building-web-apps-with-vue",
-            "stars": 304,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -124,7 +124,7 @@
             "open_issues": 190,
             "owner": "sdras",
             "repo": "building-web-apps-with-vue",
-            "stars": 304,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -593,7 +593,7 @@
             "open_issues": 45,
             "owner": "btholt",
             "repo": "complete-intro-to-containers",
-            "stars": 944,
+            "stars": 943,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184965,
+            "stars": 184976,
             "topics": [
               "async",
               "book",
@@ -969,10 +969,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 361888,
+            "stars": 361978,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184965,
+            "stars": 184976,
             "topics": [
               "async",
               "book",
@@ -1624,7 +1624,7 @@
             "id": 101582475,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-25T02:14:41Z",
+            "last_commit": "2026-09-27T05:41:20Z",
             "open_issues": 43,
             "owner": "mike-works",
             "repo": "web-security-fundamentals",
@@ -1704,7 +1704,7 @@
             "id": 87770117,
             "language": "Handlebars",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-25T04:59:00Z",
+            "last_commit": "2026-09-27T05:47:24Z",
             "open_issues": 15,
             "owner": "mike-works",
             "repo": "modern-seo",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:23:28.544Z",
+    "last_updated": "2026-09-27T10:02:38.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
