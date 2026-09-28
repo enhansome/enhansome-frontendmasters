@@ -383,7 +383,7 @@
             "open_issues": 0,
             "owner": "kadikraman",
             "repo": "react-native-v2",
-            "stars": 193,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -593,7 +593,7 @@
             "open_issues": 45,
             "owner": "btholt",
             "repo": "complete-intro-to-containers",
-            "stars": 943,
+            "stars": 942,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184976,
+            "stars": 184980,
             "topics": [
               "async",
               "book",
@@ -951,7 +951,7 @@
             "open_issues": 52,
             "owner": "btholt",
             "repo": "complete-intro-to-react-v5",
-            "stars": 3578,
+            "stars": 3577,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -972,7 +972,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 361978,
+            "stars": 362051,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1006,7 +1006,7 @@
             "open_issues": 5,
             "owner": "nnja",
             "repo": "python",
-            "stars": 495,
+            "stars": 494,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184976,
+            "stars": 184980,
             "topics": [
               "async",
               "book",
@@ -1196,7 +1196,7 @@
             "open_issues": 1,
             "owner": "sdras",
             "repo": "design-for-developers",
-            "stars": 774,
+            "stars": 775,
             "topics": [
               "beginning-design",
               "design",
@@ -1225,7 +1225,7 @@
             "open_issues": 1,
             "owner": "sdras",
             "repo": "design-for-developers",
-            "stars": 774,
+            "stars": 775,
             "topics": [
               "beginning-design",
               "design",
@@ -1431,7 +1431,7 @@
             "open_issues": 6,
             "owner": "jkup",
             "repo": "mastering-chrome-devtools",
-            "stars": 709,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:02:38.812Z",
+    "last_updated": "2026-09-28T10:58:49.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
@@ -1783,7 +1783,7 @@
       "open_issues": 0,
       "owner": "rahuldkjain",
       "repo": "awesome-frontendmasters",
-      "stars": 354,
+      "stars": 353,
       "topics": [
         "angular",
         "awesome",
