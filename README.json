@@ -234,7 +234,7 @@
             "open_issues": 40,
             "owner": "btholt",
             "repo": "complete-intro-to-linux-and-the-cli",
-            "stars": 404,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -488,7 +488,7 @@
             "open_issues": 1,
             "owner": "Vadikus",
             "repo": "practicalDL",
-            "stars": 251,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185007,
+            "stars": 185011,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362184,
+            "stars": 362227,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185007,
+            "stars": 185011,
             "topics": [
               "async",
               "book",
@@ -1317,7 +1317,7 @@
             "open_issues": 5,
             "owner": "mattdesl",
             "repo": "workshop-generative-art",
-            "stars": 1406,
+            "stars": 1405,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1674,8 +1674,8 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T04:04:04Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-01T21:37:21Z",
+            "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
             "stars": 272,
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:59:46.023Z",
+    "last_updated": "2026-10-02T10:32:53.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
