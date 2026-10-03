@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Building Web Apps with Vue and Nuxt",
-          "description": null,
+          "description": "sdras/building-web-apps-with-vue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "building-web-apps-with-vue",
-          "description": null,
+          "description": "sdras/building-web-apps-with-vue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
         {
           "node_type": "item",
           "title": "Introduction to Vue.js",
-          "description": null,
+          "description": "sdras/intro-to-vue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -164,7 +164,7 @@
         {
           "node_type": "item",
           "title": "intro-to-vue",
-          "description": null,
+          "description": "sdras/intro-to-vue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +234,7 @@
             "open_issues": 40,
             "owner": "btholt",
             "repo": "complete-intro-to-linux-and-the-cli",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -242,7 +242,7 @@
         {
           "node_type": "item",
           "title": "State Management with Vuex",
-          "description": null,
+          "description": "shortdiv/frontend-masters-vuex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -263,7 +263,7 @@
         {
           "node_type": "item",
           "title": "frontend-masters-vuex",
-          "description": null,
+          "description": "shortdiv/frontend-masters-vuex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185011,
+            "stars": 185009,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362227,
+            "stars": 362263,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185011,
+            "stars": 185009,
             "topics": [
               "async",
               "book",
@@ -1123,7 +1123,7 @@
         {
           "node_type": "item",
           "title": "SVG Essentials & Animation",
-          "description": null,
+          "description": "sdras/svg-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1153,7 +1153,7 @@
         {
           "node_type": "item",
           "title": "svg-workshop",
-          "description": null,
+          "description": "sdras/svg-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1183,7 +1183,7 @@
         {
           "node_type": "item",
           "title": "Design For Developers",
-          "description": null,
+          "description": "sdras/design-for-developers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1212,7 +1212,7 @@
         {
           "node_type": "item",
           "title": "design-for-developers",
-          "description": null,
+          "description": "sdras/design-for-developers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1262,7 +1262,7 @@
         {
           "node_type": "item",
           "title": "Angular Core",
-          "description": null,
+          "description": "onehungrymind/angular-core-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1283,7 +1283,7 @@
         {
           "node_type": "item",
           "title": "angular-core-workshop",
-          "description": null,
+          "description": "onehungrymind/angular-core-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1376,7 +1376,7 @@
         {
           "node_type": "item",
           "title": "Advanced Elm",
-          "description": null,
+          "description": "rtfeldman/elm-0.19-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1397,7 +1397,7 @@
         {
           "node_type": "item",
           "title": "elm-0.19-workshop",
-          "description": null,
+          "description": "rtfeldman/elm-0.19-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:32:53.592Z",
+    "last_updated": "2026-10-03T04:46:14.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
