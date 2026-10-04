@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185010,
+            "stars": 185011,
             "topics": [
               "async",
               "book",
@@ -951,7 +951,7 @@
             "open_issues": 52,
             "owner": "btholt",
             "repo": "complete-intro-to-react-v5",
-            "stars": 3576,
+            "stars": 3574,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -972,7 +972,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362269,
+            "stars": 362298,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185010,
+            "stars": 185011,
             "topics": [
               "async",
               "book",
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T21:37:21Z",
+            "last_commit": "2026-10-04T09:40:34Z",
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:54:39.267Z",
+    "last_updated": "2026-10-04T10:37:03.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
