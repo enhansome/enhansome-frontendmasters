@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185011,
+            "stars": 185014,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362298,
+            "stars": 362361,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185011,
+            "stars": 185014,
             "topics": [
               "async",
               "book",
@@ -1058,11 +1058,11 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T05:19:25Z",
+            "last_commit": "2026-10-04T13:43:21Z",
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
-            "stars": 869,
+            "stars": 868,
             "topics": [
               "async-await",
               "course",
@@ -1628,7 +1628,7 @@
             "open_issues": 43,
             "owner": "mike-works",
             "repo": "web-security-fundamentals",
-            "stars": 260,
+            "stars": 259,
             "topics": [
               "clickjacking",
               "cors",
@@ -1678,7 +1678,7 @@
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
-            "stars": 272,
+            "stars": 271,
             "topics": [
               "course",
               "javascript",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:37:03.718Z",
+    "last_updated": "2026-10-05T11:34:12.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
