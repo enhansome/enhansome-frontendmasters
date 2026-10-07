@@ -362,7 +362,7 @@
             "open_issues": 21,
             "owner": "btholt",
             "repo": "project-fox-game-site",
-            "stars": 301,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -404,7 +404,7 @@
             "open_issues": 16,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1047,
+            "stars": 1046,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185012,
+            "stars": 185001,
             "topics": [
               "async",
               "book",
@@ -951,7 +951,7 @@
             "open_issues": 52,
             "owner": "btholt",
             "repo": "complete-intro-to-react-v5",
-            "stars": 3574,
+            "stars": 3575,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -972,7 +972,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362443,
+            "stars": 362479,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1006,7 +1006,7 @@
             "open_issues": 5,
             "owner": "nnja",
             "repo": "python",
-            "stars": 494,
+            "stars": 495,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185012,
+            "stars": 185001,
             "topics": [
               "async",
               "book",
@@ -1196,7 +1196,7 @@
             "open_issues": 1,
             "owner": "sdras",
             "repo": "design-for-developers",
-            "stars": 775,
+            "stars": 773,
             "topics": [
               "beginning-design",
               "design",
@@ -1225,7 +1225,7 @@
             "open_issues": 1,
             "owner": "sdras",
             "repo": "design-for-developers",
-            "stars": 775,
+            "stars": 773,
             "topics": [
               "beginning-design",
               "design",
@@ -1515,7 +1515,7 @@
             "open_issues": 46,
             "owner": "btholt",
             "repo": "intro-to-web-dev-v2",
-            "stars": 1538,
+            "stars": 1537,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:19:31.065Z",
+    "last_updated": "2026-10-07T11:07:23.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
