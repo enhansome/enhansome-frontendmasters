@@ -972,7 +972,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362479,
+            "stars": 362517,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T21:14:27Z",
+            "last_commit": "2026-10-07T17:50:49Z",
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:07:23.410Z",
+    "last_updated": "2026-10-08T11:25:09.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
