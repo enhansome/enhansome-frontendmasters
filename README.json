@@ -404,7 +404,7 @@
             "open_issues": 16,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1046,
+            "stars": 1047,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185001,
+            "stars": 184804,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362517,
+            "stars": 362336,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185001,
+            "stars": 184804,
             "topics": [
               "async",
               "book",
@@ -1515,7 +1515,7 @@
             "open_issues": 46,
             "owner": "btholt",
             "repo": "intro-to-web-dev-v2",
-            "stars": 1537,
+            "stars": 1538,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:25:09.956Z",
+    "last_updated": "2026-10-09T11:21:48.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
