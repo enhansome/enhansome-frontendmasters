@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "mike-north",
             "repo": "js-ts-monorepos",
-            "stars": 238,
+            "stars": 237,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184824,
+            "stars": 184829,
             "topics": [
               "async",
               "book",
@@ -969,10 +969,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
-            "open_issues": 128,
+            "open_issues": 129,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362548,
+            "stars": 362571,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184824,
+            "stars": 184829,
             "topics": [
               "async",
               "book",
@@ -1109,7 +1109,7 @@
             "open_issues": 37,
             "owner": "FrontendMasters",
             "repo": "api-design-node-v3",
-            "stars": 690,
+            "stars": 689,
             "topics": [
               "express",
               "mongodb",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:04:22.758Z",
+    "last_updated": "2026-10-17T08:37:07.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
