@@ -972,7 +972,7 @@
             "open_issues": 129,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362757,
+            "stars": 362966,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1058,7 +1058,7 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-13T17:36:25Z",
+            "last_commit": "2026-10-18T13:25:49Z",
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T13:56:28Z",
+            "last_commit": "2026-10-19T02:20:52Z",
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:53:21.137Z",
+    "last_updated": "2026-10-19T09:58:44.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
