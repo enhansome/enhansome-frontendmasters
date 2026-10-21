@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184830,
+            "stars": 184832,
             "topics": [
               "async",
               "book",
@@ -951,7 +951,7 @@
             "open_issues": 52,
             "owner": "btholt",
             "repo": "complete-intro-to-react-v5",
-            "stars": 3573,
+            "stars": 3572,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -972,7 +972,7 @@
             "open_issues": 129,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363149,
+            "stars": 363193,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1006,7 +1006,7 @@
             "open_issues": 5,
             "owner": "nnja",
             "repo": "python",
-            "stars": 497,
+            "stars": 495,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184830,
+            "stars": 184832,
             "topics": [
               "async",
               "book",
@@ -1058,7 +1058,7 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-18T13:25:49Z",
+            "last_commit": "2026-10-20T10:12:10Z",
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
@@ -1553,7 +1553,7 @@
             "id": 111384465,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-13T14:40:51Z",
+            "last_commit": "2026-10-20T13:31:43Z",
             "open_issues": 53,
             "owner": "mike-works",
             "repo": "sql-fundamentals",
@@ -1624,7 +1624,7 @@
             "id": 101582475,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-13T15:26:34Z",
+            "last_commit": "2026-10-20T12:04:50Z",
             "open_issues": 43,
             "owner": "mike-works",
             "repo": "web-security-fundamentals",
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T02:20:52Z",
+            "last_commit": "2026-10-20T13:29:37Z",
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1704,7 +1704,7 @@
             "id": 87770117,
             "language": "Handlebars",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-13T14:09:25Z",
+            "last_commit": "2026-10-20T09:43:58Z",
             "open_issues": 15,
             "owner": "mike-works",
             "repo": "modern-seo",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T09:28:25.209Z",
+    "last_updated": "2026-10-21T09:24:16.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
