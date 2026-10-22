@@ -782,7 +782,7 @@
             "open_issues": 6,
             "owner": "jen4web",
             "repo": "fem-adv-css-layout",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "css",
               "css-grid",
@@ -972,7 +972,7 @@
             "open_issues": 129,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363193,
+            "stars": 363235,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:24:16.534Z",
+    "last_updated": "2026-10-22T09:27:16.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
