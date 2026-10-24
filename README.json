@@ -61,7 +61,7 @@
             "open_issues": 14,
             "owner": "emmabostian",
             "repo": "fem-design-systems",
-            "stars": 530,
+            "stars": 529,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -145,7 +145,7 @@
             "open_issues": 186,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2760,
+            "stars": 2761,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -177,7 +177,7 @@
             "open_issues": 186,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2760,
+            "stars": 2761,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -339,7 +339,7 @@
             "open_issues": 2,
             "owner": "davidkpiano",
             "repo": "frontend-masters-xstate-workshop",
-            "stars": 240,
+            "stars": 239,
             "topics": [
               "workshop"
             ]
@@ -404,7 +404,7 @@
             "open_issues": 16,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1048,
+            "stars": 1047,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "DrBoolean",
             "repo": "Practically-Functional",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -972,7 +972,7 @@
             "open_issues": 129,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363283,
+            "stars": 363316,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1317,7 +1317,7 @@
             "open_issues": 5,
             "owner": "mattdesl",
             "repo": "workshop-generative-art",
-            "stars": 1405,
+            "stars": 1404,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T02:42:05Z",
+            "last_commit": "2026-10-23T15:52:36Z",
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:23:18.536Z",
+    "last_updated": "2026-10-24T08:55:01.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
