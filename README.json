@@ -103,7 +103,7 @@
             "open_issues": 190,
             "owner": "sdras",
             "repo": "building-web-apps-with-vue",
-            "stars": 303,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -124,7 +124,7 @@
             "open_issues": 190,
             "owner": "sdras",
             "repo": "building-web-apps-with-vue",
-            "stars": 303,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -145,7 +145,7 @@
             "open_issues": 186,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2761,
+            "stars": 2760,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -177,7 +177,7 @@
             "open_issues": 186,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2761,
+            "stars": 2760,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -404,7 +404,7 @@
             "open_issues": 16,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1047,
+            "stars": 1048,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184833,
+            "stars": 184836,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 129,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363349,
+            "stars": 363401,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184833,
+            "stars": 184836,
             "topics": [
               "async",
               "book",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:11:56.140Z",
+    "last_updated": "2026-10-26T10:12:49.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
