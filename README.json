@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184832,
+            "stars": 184827,
             "topics": [
               "async",
               "book",
@@ -969,10 +969,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
-            "open_issues": 128,
+            "open_issues": 129,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363436,
+            "stars": 363471,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184832,
+            "stars": 184827,
             "topics": [
               "async",
               "book",
@@ -1494,7 +1494,7 @@
             "open_issues": 4,
             "owner": "TheLarkInn",
             "repo": "webpack-workshop-2018",
-            "stars": 564,
+            "stars": 565,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1674,7 +1674,7 @@
             "id": 96915788,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T23:17:23Z",
+            "last_commit": "2026-10-27T22:05:37Z",
             "open_issues": 77,
             "owner": "mike-works",
             "repo": "pwa-fundamentals",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:51:33.985Z",
+    "last_updated": "2026-10-28T10:37:53.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
