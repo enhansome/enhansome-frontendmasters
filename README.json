@@ -969,10 +969,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363501,
+            "stars": 363552,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:55:59.599Z",
+    "last_updated": "2026-10-30T10:54:17.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
