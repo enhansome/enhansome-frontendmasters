@@ -401,7 +401,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2023-01-07T11:08:35Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
             "stars": 1049,
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184835,
+            "stars": 184836,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 130,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363552,
+            "stars": 363611,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184835,
+            "stars": 184836,
             "topics": [
               "async",
               "book",
@@ -1317,7 +1317,7 @@
             "open_issues": 5,
             "owner": "mattdesl",
             "repo": "workshop-generative-art",
-            "stars": 1404,
+            "stars": 1405,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1704,7 +1704,7 @@
             "id": 87770117,
             "language": "Handlebars",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T01:57:19Z",
+            "last_commit": "2026-10-31T04:56:18Z",
             "open_issues": 15,
             "owner": "mike-works",
             "repo": "modern-seo",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:54:17.180Z",
+    "last_updated": "2026-10-31T10:25:45.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
