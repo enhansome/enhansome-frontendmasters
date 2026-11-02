@@ -145,7 +145,7 @@
             "open_issues": 186,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2759,
+            "stars": 2757,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -177,7 +177,7 @@
             "open_issues": 186,
             "owner": "sdras",
             "repo": "intro-to-vue",
-            "stars": 2759,
+            "stars": 2757,
             "topics": [
               "introduction-to-nuxt",
               "introduction-to-vue",
@@ -404,7 +404,7 @@
             "open_issues": 17,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1049,
+            "stars": 1048,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184841,
+            "stars": 184837,
             "topics": [
               "async",
               "book",
@@ -930,7 +930,7 @@
             "open_issues": 30,
             "owner": "FrontendMasters",
             "repo": "gatsby-intro",
-            "stars": 249,
+            "stars": 248,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -951,7 +951,7 @@
             "open_issues": 51,
             "owner": "btholt",
             "repo": "complete-intro-to-react-v5",
-            "stars": 3571,
+            "stars": 3570,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -972,7 +972,7 @@
             "open_issues": 132,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363641,
+            "stars": 363679,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184841,
+            "stars": 184837,
             "topics": [
               "async",
               "book",
@@ -1338,7 +1338,7 @@
             "open_issues": 23,
             "owner": "FrontendMasters",
             "repo": "intro-mongo-db",
-            "stars": 193,
+            "stars": 191,
             "topics": [
               "mongo",
               "mongodb",
@@ -1364,7 +1364,7 @@
             "open_issues": 20,
             "owner": "FrontendMasters",
             "repo": "intro-node-js",
-            "stars": 372,
+            "stars": 371,
             "topics": [
               "exercises",
               "node",
@@ -1494,7 +1494,7 @@
             "open_issues": 4,
             "owner": "TheLarkInn",
             "repo": "webpack-workshop-2018",
-            "stars": 565,
+            "stars": 564,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1515,7 +1515,7 @@
             "open_issues": 46,
             "owner": "btholt",
             "repo": "intro-to-web-dev-v2",
-            "stars": 1537,
+            "stars": 1535,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:19:20.986Z",
+    "last_updated": "2026-11-02T12:31:49.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
