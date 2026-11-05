@@ -488,7 +488,7 @@
             "open_issues": 1,
             "owner": "Vadikus",
             "repo": "practicalDL",
-            "stars": 252,
+            "stars": 251,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -972,7 +972,7 @@
             "open_issues": 132,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363877,
+            "stars": 363963,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1431,7 +1431,7 @@
             "open_issues": 6,
             "owner": "jkup",
             "repo": "mastering-chrome-devtools",
-            "stars": 708,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:13:26.378Z",
+    "last_updated": "2026-11-05T12:26:53.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
