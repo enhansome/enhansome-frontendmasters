@@ -362,7 +362,7 @@
             "open_issues": 21,
             "owner": "btholt",
             "repo": "project-fox-game-site",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -404,7 +404,7 @@
             "open_issues": 17,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1047,
+            "stars": 1048,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184841,
+            "stars": 184842,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 23,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 364128,
+            "stars": 364165,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1006,7 +1006,7 @@
             "open_issues": 5,
             "owner": "nnja",
             "repo": "python",
-            "stars": 495,
+            "stars": 496,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184841,
+            "stars": 184842,
             "topics": [
               "async",
               "book",
@@ -1058,11 +1058,11 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T00:06:35Z",
+            "last_commit": "2026-11-09T20:47:58Z",
             "open_issues": 49,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
-            "stars": 869,
+            "stars": 870,
             "topics": [
               "async-await",
               "course",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:57:26.422Z",
+    "last_updated": "2026-11-10T12:43:33.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
@@ -1783,7 +1783,7 @@
       "open_issues": 0,
       "owner": "rahuldkjain",
       "repo": "awesome-frontendmasters",
-      "stars": 352,
+      "stars": 353,
       "topics": [
         "angular",
         "awesome",
