@@ -209,7 +209,7 @@
             "open_issues": 8,
             "owner": "jlengstorf",
             "repo": "frontendmasters-serverless",
-            "stars": 76,
+            "stars": 75,
             "topics": [
               "serverless",
               "serverless-functions",
@@ -572,7 +572,7 @@
             "open_issues": 4,
             "owner": "young",
             "repo": "frontend-interviewing",
-            "stars": 445,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -698,7 +698,7 @@
             "open_issues": 0,
             "owner": "young",
             "repo": "Full-Stack-For-Frontend",
-            "stars": 8,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184841,
+            "stars": 184847,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 23,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 364298,
+            "stars": 364325,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184841,
+            "stars": 184847,
             "topics": [
               "async",
               "book",
@@ -1059,7 +1059,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-11T13:18:02Z",
-            "open_issues": 49,
+            "open_issues": 48,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
             "stars": 870,
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T12:50:11.464Z",
+    "last_updated": "2026-11-13T12:17:48.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
