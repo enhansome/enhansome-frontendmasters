@@ -61,7 +61,7 @@
             "open_issues": 14,
             "owner": "emmabostian",
             "repo": "fem-design-systems",
-            "stars": 529,
+            "stars": 530,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -807,7 +807,7 @@
             "open_issues": 15,
             "owner": "marcysutton",
             "repo": "js-a11y-workshop",
-            "stars": 229,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -972,7 +972,7 @@
             "open_issues": 24,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 364460,
+            "stars": 364496,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:32:38.043Z",
+    "last_updated": "2026-11-18T13:08:48.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
