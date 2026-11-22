@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184864,
+            "stars": 184867,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 25,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 364722,
+            "stars": 364779,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184864,
+            "stars": 184867,
             "topics": [
               "async",
               "book",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:44:20.372Z",
+    "last_updated": "2026-11-22T12:39:02.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
