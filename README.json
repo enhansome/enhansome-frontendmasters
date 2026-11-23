@@ -383,7 +383,7 @@
             "open_issues": 0,
             "owner": "kadikraman",
             "repo": "react-native-v2",
-            "stars": 192,
+            "stars": 191,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -404,7 +404,7 @@
             "open_issues": 17,
             "owner": "mattdesl",
             "repo": "workshop-webgl-glsl",
-            "stars": 1048,
+            "stars": 1049,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184867,
+            "stars": 184862,
             "topics": [
               "async",
               "book",
@@ -951,7 +951,7 @@
             "open_issues": 51,
             "owner": "btholt",
             "repo": "complete-intro-to-react-v5",
-            "stars": 3570,
+            "stars": 3569,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -969,10 +969,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-07T16:03:02Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 364779,
+            "stars": 364838,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184867,
+            "stars": 184862,
             "topics": [
               "async",
               "book",
@@ -1515,7 +1515,7 @@
             "open_issues": 46,
             "owner": "btholt",
             "repo": "intro-to-web-dev-v2",
-            "stars": 1531,
+            "stars": 1530,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T12:39:02.354Z",
+    "last_updated": "2026-11-23T14:47:23.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
