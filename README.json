@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184862,
+            "stars": 184858,
             "topics": [
               "async",
               "book",
@@ -972,7 +972,7 @@
             "open_issues": 26,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 364838,
+            "stars": 364967,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184862,
+            "stars": 184858,
             "topics": [
               "async",
               "book",
@@ -1058,7 +1058,7 @@
             "id": 89722054,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T19:51:31Z",
+            "last_commit": "2026-11-23T22:02:11Z",
             "open_issues": 48,
             "owner": "mike-works",
             "repo": "typescript-fundamentals",
@@ -1196,7 +1196,7 @@
             "open_issues": 1,
             "owner": "sdras",
             "repo": "design-for-developers",
-            "stars": 773,
+            "stars": 772,
             "topics": [
               "beginning-design",
               "design",
@@ -1225,7 +1225,7 @@
             "open_issues": 1,
             "owner": "sdras",
             "repo": "design-for-developers",
-            "stars": 773,
+            "stars": 772,
             "topics": [
               "beginning-design",
               "design",
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T14:47:23.346Z",
+    "last_updated": "2026-11-24T14:56:17.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
