@@ -234,7 +234,7 @@
             "open_issues": 40,
             "owner": "btholt",
             "repo": "complete-intro-to-linux-and-the-cli",
-            "stars": 403,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:39.508Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184851,
+            "stars": 184840,
             "topics": [
               "async",
               "book",
@@ -969,10 +969,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-07T16:03:02Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 365089,
+            "stars": 365131,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1027,7 +1027,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184851,
+            "stars": 184840,
             "topics": [
               "async",
               "book",
@@ -1106,7 +1106,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-03-01T20:58:04Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "FrontendMasters",
             "repo": "api-design-node-v3",
             "stars": 689,
@@ -1771,7 +1771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:57:55.594Z",
+    "last_updated": "2026-11-27T13:56:47.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 List of awesome frontendmasters course resources",
